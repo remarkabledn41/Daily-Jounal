@@ -105,3 +105,6 @@ app.get("/posts/:postTitle", function(req, res){
 app.listen(3000, function() {
   console.log("Server started on port 3000");
 });
+
+
+//Adding an existing project to GitHub using the command line  https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
